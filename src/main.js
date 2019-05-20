@@ -4,7 +4,7 @@
 import $ from 'jquery';
 // const $ = require("jquery");相当于
 $(function(){
-    $('#list li:odd').css('backgroundColor','red');
+    $('#list li:odd').css('backgroundColor','yellow');
     $('#list li:even').css('backgroundColor',function(){
         return '#' + 'ccc';
     });

@@ -77,7 +77,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 
 // const $ = require("jquery");相当于
 __WEBPACK_IMPORTED_MODULE_0_jquery___default()(function(){
-    __WEBPACK_IMPORTED_MODULE_0_jquery___default()('#list li:odd').css('backgroundColor','red');
+    __WEBPACK_IMPORTED_MODULE_0_jquery___default()('#list li:odd').css('backgroundColor','yellow');
     __WEBPACK_IMPORTED_MODULE_0_jquery___default()('#list li:even').css('backgroundColor',function(){
         return '#' + 'ccc';
     });
